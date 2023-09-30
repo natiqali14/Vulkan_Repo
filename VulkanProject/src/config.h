@@ -18,6 +18,6 @@
 #include <glm/common.hpp>
 #include <glm/geometric.hpp>
 
-#define GLFW_EXPOSE_NATIVE_WIN32
+
 
 

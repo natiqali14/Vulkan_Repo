@@ -1,0 +1,763 @@
+﻿  VulkanEngine.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Game\VulkanEngine.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Game\VulkanEngine.h(18,2): warning C4091: 'typedef ': ignored on left of 'engine_data' when no variable is declared
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Game\VulkanEngine.cpp(69,86): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Game\VulkanEngine.cpp(77,17): warning C4244: 'initializing': conversion from 'double' to 'u64', possible loss of data
+  frontend_helper.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\frontend_helper.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  GLFW_Window.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(52,104): error C2059: syntax error: ')'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(53,2): warning C4002: too many arguments for function-like macro invocation 'ASSERT'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(53,2): error C2059: syntax error: 'if'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(53,2): error C2143: syntax error: missing ';' before '{'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(53,2): error C2181: illegal else without matching if
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(53,2): error C2059: syntax error: '}'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(54,2): error C2059: syntax error: 'return'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(55,1): error C2059: syntax error: '}'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(55,1): error C2143: syntax error: missing ';' before '}'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(57,1): error C2143: syntax error: missing ';' before '{'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\FrontEnd\GLFW_Window.cpp(57,1): error C2447: '{': missing function header (old-style formal list?)
+  instance.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp(131,2): warning C4002: too many arguments for function-like macro invocation 'VK_ASSERT'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp(131,2): warning C4003: not enough arguments for function-like macro invocation 'ASSERT_MSG'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp(131,2): error C2059: syntax error: ')'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp(145,2): warning C4003: not enough arguments for function-like macro invocation 'ASSERT_MSG'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\instance.cpp(145,2): error C2059: syntax error: ')'
+  main.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Game\VulkanEngine.h(18,2): warning C4091: 'typedef ': ignored on left of 'engine_data' when no variable is declared
+  RendererBackend.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\RendererBackend.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  renderer_frontend.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\renderer_frontend.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Game\VulkanEngine.h(18,2): warning C4091: 'typedef ': ignored on left of 'engine_data' when no variable is declared
+  vulkan_device.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_device.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_device.cpp(27,2): warning C4002: too many arguments for function-like macro invocation 'ASSERT'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_device.cpp(32,49): error C2017: illegal escape sequence
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_device.cpp(32,35): error C2131: expression did not evaluate to a constant
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_device.cpp(32,35): message : failure was caused by a read of a variable outside its lifetime
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_device.cpp(32,35): message : see usage of 'physical_count'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_device.cpp(34,1): error C2143: syntax error: missing ';' before '}'
+  vulkan_helper.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\vulkan_utils\vulkan_helper.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  logger.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\utils\logger.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  timer.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\utils\timer_utils\timer.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  VulkanRenderer.cpp
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,37): error C3646: 'hinstance': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(30,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,37): error C3646: 'hwnd': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(31,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,43): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(57,49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,43): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(58,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(64,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(65,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(66,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(82,136): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(83,135): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(89,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(94,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,46): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(125,52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,46): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(126,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(132,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(133,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(134,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(154,142): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(164,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(177,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,42): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(178,46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(184,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(185,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,35): error C3646: 'name': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(186,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(197,134): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(207,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,42): error C3646: 'handle': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(218,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,30): error C2143: syntax error: missing ';' before '*'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(224,46): error C2238: unexpected token(s) preceding ';'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,35): error C3646: 'dwAccess': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(225,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(228,146): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(235,5): error C2061: syntax error: identifier 'HANDLE'
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,24): error C3646: 'hmonitor': unknown override specifier
+E:\Vulkan_Project\Vulkan\Include\vulkan\vulkan_win32.h(282,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\defines.h(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Renderer_Api\VulkanRenderer.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+E:\Cpp Projects\VulkanProject\VulkanProject\src\Game\VulkanEngine.h(18,2): warning C4091: 'typedef ': ignored on left of 'engine_data' when no variable is declared
+  Generating Code...
